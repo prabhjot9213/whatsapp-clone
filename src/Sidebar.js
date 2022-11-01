@@ -1,7 +1,7 @@
 import { Avatar } from '@mui/material';
-import { DonutLargeIcon } from '@mui/material';
-import { ChatIcon } from '@mui/material';
-import { MoreVertIcon } from '@mui/material';
+import  DonutLargeIcon  from '@material-ui/icons/DonutLarge';
+import ChatIcon  from '@material-ui/icons/Chat';
+import MoreVertIcon from '@material-ui/icons/MoreVert';
 import React from 'react'
 import './Sidebar.css'
 
